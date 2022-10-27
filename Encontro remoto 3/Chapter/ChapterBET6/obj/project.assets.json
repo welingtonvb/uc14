@@ -2332,11 +2332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\ChapterBET6\\ChapterBET6.csproj",
+      "projectUniqueName": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\Chapter\\ChapterBET6\\ChapterBET6.csproj",
       "projectName": "ChapterBET6",
-      "projectPath": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\ChapterBET6\\ChapterBET6.csproj",
+      "projectPath": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\Chapter\\ChapterBET6\\ChapterBET6.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\ChapterBET6\\obj\\",
+      "outputPath": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\Chapter\\ChapterBET6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

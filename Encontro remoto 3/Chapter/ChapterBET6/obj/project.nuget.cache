@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y5hj3COXo7Y7vz6luPjKzrzyEszTcztUkpAwhwe1/9+czgA9fx2y9MXuLt2OC/mgwL+JF8HB29RPjS9VlvNWKQ==",
+  "dgSpecHash": "CMujIznjhwrSuhx36sTlt5iKPwXLZMIYIAl9moxJh485zLF/t6WKvQI7ykuU5dVxbFDYYQdrsDB1Ky23mUdWHg==",
   "success": true,
-  "projectFilePath": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\ChapterBET6\\ChapterBET6.csproj",
+  "projectFilePath": "D:\\SenaiFS\\UC14\\Encontro remoto 3\\Chapter\\ChapterBET6\\ChapterBET6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
