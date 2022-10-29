@@ -67,13 +67,13 @@ namespace Chapter.Controllers
             }
         }
 
-        [HttpDelete("{id}")]
-        public IActionResult Deletar(int id)
+        [HttpPut("{id}")]
+        public IActionResult Atualizar(int id, Livro livro)
         {
             try
             {
-                _livroRepository.Deletar(id);
-                return Ok("Livro removido com suscesso");
+                _livroRepository.Atualizar(id, livro);
+                return StatusCode(204);
             }
             catch (Exception)
             {
@@ -82,13 +82,13 @@ namespace Chapter.Controllers
             }
         }
 
-        [HttpPut("{id}")]
-        public IActionResult Atualizar(int id,Livro livro)
+        [HttpDelete("{id}")]
+        public IActionResult Deletar(int id)
         {
             try
             {
-                _livroRepository.Atualizar(id, livro);
-                return StatusCode(204);
+                _livroRepository.Deletar(id);
+                return Ok("Livro removido com suscesso");
             }
             catch (Exception)
             {
